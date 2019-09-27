@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CustomSendGridKeyAppSettingName": "pega a api key do sendgrid",
+    "TimerInterval": "10 * * * * *"
+  }
+
+}
